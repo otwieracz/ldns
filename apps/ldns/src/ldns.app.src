@@ -1,0 +1,17 @@
+{application, ldns,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { ldns_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    gen_icmp
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.

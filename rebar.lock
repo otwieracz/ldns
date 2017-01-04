@@ -1,0 +1,12 @@
+[{<<"gen_icmp">>,
+  {git,"https://github.com/msantos/gen_icmp.git",
+       {ref,"a40670f8ce0d2445d31764df9aae0fb0c429978e"}},
+  0},
+ {<<"pkt">>,
+  {git,"git://github.com/msantos/pkt.git",
+       {ref,"2961847d8206236d5a76bd0684bde337368c6a98"}},
+  1},
+ {<<"procket">>,
+  {git,"git://github.com/msantos/procket.git",
+       {ref,"2c784fef1429030b70ba9260c7d541f9948001e0"}},
+  1}].
